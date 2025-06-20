@@ -11,7 +11,7 @@ export default function Home() {
             width={40}
             height={40}
           />
-          <h1 className="text-2xl font-bold">RobloxTopUp</h1>
+          <h1 className="text-2xl font-bold">TOP UP ROBLOX</h1>
         </div>
         <nav>
           <button className="bg-white text-blue-600 px-6 py-2 rounded-full font-bold hover:bg-gray-100 transition">
