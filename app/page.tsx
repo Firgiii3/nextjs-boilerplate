@@ -6,7 +6,7 @@ export default function Home() {
       <header className="max-w-6xl mx-auto flex justify-between items-center mb-12">
         <div className="flex items-center gap-2">
           <Image 
-            src="/robux-icon.png" 
+            src="robux-icon.png" 
             alt="Robux Icon"
             width={40}
             height={40}
